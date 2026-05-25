@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Punjab Transit Open Data Portal</title>
+  <link rel="preconnect" href="https://unpkg.com" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img src="assets/pitb.png" alt="PITB logo" class="pitb-logo" />
+      <div>
+        <h1>Punjab Transit Open Data Portal</h1>
+        <p>Technology Partner / Executor: Punjab Information Technology Board</p>
+      </div>
+    </div>
+    <nav>
+      <button class="nav-btn active" data-page="home">Punjab Map</button>
+      <button class="nav-btn" data-page="lahore">Lahore</button>
+      <button class="nav-btn" data-page="future">Multan & Punjab EVs</button>
+      <button class="nav-btn" data-page="developer">Developer / Google / Admin</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="page active-page dashboard-page">
+      <div class="dashboard-grid home-grid">
+        <aside class="command-panel">
+          <div class="panel-title">Operational coverage</div>
+          <h2>Punjab transit data status</h2>
+          <div class="status-card active-card" id="homeLahoreCard">
+            <span class="status-dot live"></span>
+            <div><b>Lahore</b><small>Active PMA GTFS data available</small></div>
+          </div>
+          <div class="status-card muted-card"><span class="status-dot muted"></span><div><b>Multan</b><small>Coming soon</small></div></div>
+          <div class="status-card muted-card"><span class="status-dot muted"></span><div><b>Punjab EVs</b><small>Coming soon</small></div></div>
+          <div class="agency-row">
+            <div><img src="assets/pma.png" alt="PMA" /><b>PMA</b><small>Live Lahore data</small></div>
+            <div class="disabled"><img src="assets/ptc.png" alt="PTC" /><b>PTC</b><small>Upcoming</small></div>
+          </div>
+          <button class="primary-btn" id="openLahoreBtn">Open Lahore dashboard</button>
+        </aside>
+        <section class="map-panel full-map-panel">
+          <div class="map-toolbar">
+            <div><b>Punjab Districts Map</b><span>Lahore is active; other districts are shown as upcoming datasets.</span></div>
+            <div class="legend"><span class="chip active-chip">Active</span><span class="chip gray-chip">Coming soon</span></div>
+          </div>
+          <div id="punjabMap" class="map-home"></div>
+        </section>
+      </div>
+    </section>
+
+    <section id="lahore" class="page dashboard-page">
+      <div class="lahore-shell">
+        <aside class="operator-panel">
+          <h2>Lahore</h2>
+          <p class="subtle">Available operational data is shown here only.</p>
+          <div class="operator-card live-operator">
+            <img src="assets/pma.png" alt="PMA" />
+            <div><b>Punjab Masstransit Authority</b><small>Live GTFS data available</small></div>
+          </div>
+          <div class="operator-card disabled-operator">
+            <img src="assets/ptc.png" alt="PTC" />
+            <div><b>Punjab Transport Company</b><small>EV data upcoming</small></div>
+          </div>
+          <div class="lahore-tabs">
+            <button class="subtab active" data-lahore-tab="network">PMA Network</button>
+            <button class="subtab" data-lahore-tab="indoor">Indoor Mapping</button>
+          </div>
+          <button class="secondary-btn admin-jump" id="lahoreAdminBtn">Developer / Google / Admin</button>
+          <div class="quick-metrics" id="quickMetrics"></div>
+        </aside>
+
+        <section id="lahoreNetwork" class="lahore-content active-subpage">
+          <div class="content-head compact-head">
+            <div>
+              <span class="eyebrow">Lahore PMA live data</span>
+              <h2>Route network and route-wise stops</h2>
+            </div>
+            <p>Select a route from the side list. The map shows only that route and its served passenger stops.</p>
+          </div>
+          <div class="network-layout">
+            <aside class="route-list-panel">
+              <h3>Routes</h3>
+              <div id="routeList" class="route-list"></div>
+            </aside>
+            <section class="main-map-card">
+              <div class="map-toolbar tight-toolbar">
+                <div><b id="selectedRouteTitle">Route map</b><span id="selectedRouteDesc"></span></div>
+              </div>
+              <div id="routeMap" class="map-large"></div>
+            </section>
+            <aside class="stop-directory-panel">
+              <h3>Passenger stop directory</h3>
+              <p class="subtle">Stops are filtered by the selected route.</p>
+              <div id="routeStats" class="mini-stats"></div>
+              <div id="routeStops" class="stop-list"></div>
+            </aside>
+          </div>
+        </section>
+
+        <section id="lahoreIndoor" class="lahore-content">
+          <div class="content-head compact-head">
+            <div>
+              <span class="eyebrow">Station infrastructure</span>
+              <h2>Indoor mapping for Orange Line and MetroBus</h2>
+            </div>
+            <p>Indoor points are shown only where station infrastructure data exists. Labels and connector lines are hidden to keep the map clean.</p>
+          </div>
+          <div class="indoor-layout">
+            <aside class="route-list-panel">
+              <h3>System</h3>
+              <select id="indoorSystem" class="select-field">
+                <option value="orange">Orange Line</option>
+                <option value="metrobus">MetroBus</option>
+              </select>
+              <h3>Station</h3>
+              <select id="stationSelect" class="select-field"></select>
+              <div id="stationSummary" class="station-summary"></div>
+            </aside>
+            <section class="main-map-card">
+              <div class="map-toolbar tight-toolbar">
+                <div><b id="indoorTitle">Indoor station map</b><span>Points only; click any point for details.</span></div>
+              </div>
+              <div id="indoorMap" class="map-large"></div>
+            </section>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <section id="future" class="page dashboard-page">
+      <div class="future-grid">
+        <div class="future-card"><h2>Multan Transit</h2><p>Operators: PMA and PTC.</p><span>Coming soon</span></div>
+        <div class="future-card"><h2>Punjab EVs</h2><p>Operator: PTC.</p><span>Coming soon</span></div>
+      </div>
+    </section>
+
+    <section id="developer" class="page dashboard-page">
+      <div class="developer-grid">
+        <div class="developer-card primary-download">
+          <span class="eyebrow">Google / developer readiness</span>
+          <h2>Lahore PMA GTFS Feed</h2>
+          <p>Download the complete Lahore PMA GTFS feed containing agency, calendar, routes, trips, stop_times, stops, shapes, fares, frequencies, translations, levels and pathways.</p>
+          <a href="gtfs/lahore_pma_gtfs.zip" class="primary-btn download-link" download>Download GTFS ZIP</a>
+        </div>
+        <div class="developer-card warning-card">
+          <h3>Readiness status</h3>
+          <ul id="readinessList"></ul>
+        </div>
+        <div class="developer-card">
+          <h3>Public verification files</h3>
+          <p><code>robots.txt</code>, <code>sitemap.xml</code>, and <code>google-site-verification.html</code> are included.</p>
+        </div>
+        <div class="developer-card admin-card">
+          <h3>Admin review</h3>
+          <p>Internal review can be run as a Streamlit dashboard for validation, file inventory and dataset status.</p>
+          <code>python -m streamlit run admin_dashboard.py</code>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
