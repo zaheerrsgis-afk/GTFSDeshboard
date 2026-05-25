@@ -1,0 +1,8 @@
+level_id,level_index,level_name
+L2,3,2nd floor
+L1,2,1st floor
+L05,1,Mezzanine Up
+L0,0,Street
+LB05,-1,Mezzanine Down
+LB1,-2,Basement-1
+LB2,-3,Basement-2

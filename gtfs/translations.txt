@@ -1,0 +1,897 @@
+﻿table_name,field_name,record_id,language,translation
+stops,stop_name,DGSM1,ur,ڈیرہ گجراں اسٹیشن
+stops,stop_name,IPSM1,ur,اسلام پارک اسٹیشن
+stops,stop_name,SLPM1,ur,سلام پورہ اسٹیشن
+stops,stop_name,MBSM1,ur,محمود بوٹی اسٹیشن
+stops,stop_name,PMSM1,ur,پاکستان منٹ اسٹیشن
+stops,stop_name,SGSM1,ur,شالامار گارڈن اسٹیشن
+stops,stop_name,BGBM1,ur,باغبانپورہ اسٹیشن
+stops,stop_name,UETM1,ur,یو ای ٹی اسٹیشن
+stops,stop_name,SULM1,ur,سلطان پورہ اسٹیشن
+stops,stop_name,RLSM1,ur,ریلوےاسٹیشن
+stops,stop_name,LKSM1,ur,لکشمی اسٹیشن
+stops,stop_name,GPOM1,ur,جی پی او اسٹیشن
+stops,stop_name,ANRM1,ur,انارکلی اسٹیشن
+stops,stop_name,CHBM1,ur,چوبرجی اسٹیشن
+stops,stop_name,GERM1,ur,گلشن راوی اسٹیشن
+stops,stop_name,SHDM1,ur,سمن آباد اسٹیشن
+stops,stop_name,BRSM1,ur,بند روڈ اسٹیشن
+stops,stop_name,SRSM1,ur,صلاح الدین روڈ اسٹیشن
+stops,stop_name,SNSM1,ur,شاہ نور اسٹیشن
+stops,stop_name,SBZM1,ur,سبزہ زار اسٹیشن
+stops,stop_name,ATSM1,ur,اعوان ٹاؤن اسٹیشن
+stops,stop_name,WRSM1,ur,وحدت روڈ اسٹیشن
+stops,stop_name,HNJM1,ur,ہنجروال اسٹیشن
+stops,stop_name,CVSM1,ur,کنال ویو اسٹیشن
+stops,stop_name,TNSM1,ur,ٹھوکر نیاز بیگ اسٹیشن
+stops,stop_name,ALSM1,ur,علی ٹاؤن اسٹیشن
+stops,stop_name,SHDMB1,ur,شاہدرا
+stops,stop_name,NZSMB1,ur,نیازی چوک اسٹیشن
+stops,stop_name,TIMMB1,ur,ٹمبر مارکیٹ اسٹیشن
+stops,stop_name,AZCMB1,ur,آذادی چوک اسٹیشن
+stops,stop_name,BTCMB1,ur,بھاٹی چوک اسٹیشن
+stops,stop_name,KHTMB1,ur,کچہری اسٹیشن
+stops,stop_name,CSEMB1,ur,سول سکٹریٹ
+stops,stop_name,MAOMB1,ur,ایم ۔ اے ۔او کالج
+stops,stop_name,JZGMB1,ur,جنازگاہ اسٹیشن
+stops,stop_name,QTBMB1,ur,قرطبہ چوک
+stops,stop_name,SMAMB1,ur,شمع اسٹیشن
+stops,stop_name,ICHMB1,ur,اچھرا اسٹیشن
+stops,stop_name,CNLMB1,ur,کنال اسٹیشن
+stops,stop_name,QDSMB1,ur,قذافی اسٹیڈیم اسٹیشن
+stops,stop_name,KLMMB1,ur,کلمہ چوک اسٹیشن
+stops,stop_name,MDTMB1,ur,ماڈل ٹاؤن اسٹیشن
+stops,stop_name,NSBMB1,ur,نصیرآباد اسٹیشن
+stops,stop_name,ITFMB1,ur,اتفاق اسپتال
+stops,stop_name,QNCMB1,ur,قینچی اسٹیشن
+stops,stop_name,GHCMB1,ur,غازی چوک اسٹیشن
+stops,stop_name,CASMB1,ur,چونگی امرسدھو اسٹیشن
+stops,stop_name,KMHMB1,ur,کما ہا ں اسٹیشن
+stops,stop_name,ATSMB1,ur,اٹاری سروبہ اسٹیشن
+stops,stop_name,NSCMB1,ur,نشتر کالونی اسٹیشن
+stops,stop_name,YHNBS1,ur,یوحنا آباد اسٹیشن
+stops,stop_name,DKSMB1,ur,دولو خرد اسٹیشن
+stops,stop_name,GJUMB1,ur,گجومتہ
+stops,stop_name,SN2518,ur,25 نمبراسٹاپ
+stops,stop_name,STN514,ur,5 نمبر اسٹاپ
+stops,stop_name,ABPM10,ur,آب پارہ مارکیٹ
+stops,stop_name,ABDS16,ur,ابدالیّن سوسائیٹی
+stops,stop_name,ABMR19,ur,عابد مجید روڈ
+stops,stop_name,AFSC12,ur,افشاں چوک
+stops,stop_name,ARGT20,ur,ایگریکس ٹاؤن
+stops,stop_name,ALUR14,ur,اہلو روڈ
+stops,stop_name,ATSC12,ur,ایچیسن کالج
+stops,stop_name,AWEI9,ur,ایوان اقبال
+stops,stop_name,AKBC16,ur,اکبر چوک
+stops,stop_name,AKBC13,ur,اکبر چوک
+stops,stop_name,ALHS13,ur,الحبیب اسٹاپ
+stops,stop_name,AWHG18,ur,الوہاب گارڈن
+stops,stop_name,ALDS16,ur,علیم ڈار اسٹیڈیم
+stops,stop_name,AHSH5,ur,علی ہجویری شادی ہال
+stops,stop_name,ALMA17,ur,علی مرتضیٰ ایسوسیٹس
+stops,stop_name,ALTS20,ur,علی ٹاؤن اسٹیشن
+stops,stop_name,ALVG14,ur,علی ویو گارڈن
+stops,stop_name,ARAB20,ur,علی رضا آباد
+stops,stop_name,AUDR12,ur,علاوؑالدین روڈ
+stops,stop_name,AUDR19,ur,علاوؑ الدین روڈ
+stops,stop_name,ALHC16,ur,اللہ ھو چوک
+stops,stop_name,ANRK12,ur,انارکلی
+stops,stop_name,ANMS15,ur,انارکلی میٹرو اسٹیشن
+stops,stop_name,ARFA14,ur,عارف آباد
+stops,stop_name,ASLC13,ur,اسلم چوک
+stops,stop_name,ATSB14,ur,اٹاری سروبہ
+stops,stop_name,AVNH17,ur,ایو سینا اسپتال
+stops,stop_name,AYBC16,ur,ایوب چوک
+stops,stop_name,AZDC3,ur,آذادی چوک
+stops,stop_name,AZDC18,ur,آزادی چوک 
+stops,stop_name,BEPK4,ur,باب پاکستان
+stops,stop_name,BBSB11,ur,بابوُ صابو
+stops,stop_name,BDMB5,ur,بادامی باغ
+stops,stop_name,BGRN13,ur,باگڑیاں
+stops,stop_name,BGMK18,ur,بیگم کوٹ
+stops,stop_name,BSCB16,ur,بینک اسکوائر سی بلاک
+stops,stop_name,BNKS10,ur,بینک اسٹاپ
+stops,stop_name,BNKS13,ur,بینک اسٹاپ
+stops,stop_name,BRKM8,ur,برکت مارکیٹ
+stops,stop_name,BKTM11,ur,برکت مارکیٹ
+stops,stop_name,BRKT3,ur,برکت ٹاوٗن
+stops,stop_name,BHBS13,ur,بھابڑہ اسٹاپ
+stops,stop_name,BHTC14,ur,بھٹہ چوک
+stops,stop_name,BHTP20,ur,بھٹہ پنڈ
+stops,stop_name,BHTC3,ur,بھاٹی چوک
+stops,stop_name,BHTC5,ur,بھاٹی چوک
+stops,stop_name,BHTC15,ur,بھاٹی چوک
+stops,stop_name,BHTC18,ur,بھاٹی چوک
+stops,stop_name,BHKM10,ur,بھیکیوال موڑ
+stops,stop_name,BKWM11,ur,بھیکیوال موڑ
+stops,stop_name,BHTN20,ur,بھوبتیاں چوک
+stops,stop_name,BHTC20,ur,بھوبتیاں پنڈ
+stops,stop_name,BHLV17,ur,بھولر گاؤں
+stops,stop_name,BILD11,ur,بلال ڈائیوو
+stops,stop_name,BHWC19,ur,بوہڑ والا چوک
+stops,stop_name,BUTC13,ur,بٹ چوک
+stops,stop_name,CMPP8,ur,کیمپس پل
+stops,stop_name,CAMP11,ur,کیمپس پل
+stops,stop_name,CNAL16,ur,کنال
+stops,stop_name,CANL8,ur,کنال
+stops,stop_name,CANL10,ur,کنال
+stops,stop_name,CNLB12,ur,کینال پل
+stops,stop_name,CVGO8,ur,کنال ویوگیٹ 1
+stops,stop_name,CTBS14,ur,کینٹ بس اسٹاپ
+stops,stop_name,CALR15,ur,کیولری روڈ
+stops,stop_name,CNTP11,ur,سینٹر پوائنٹ
+stops,stop_name,CNTP15,ur,سینٹر پوائنٹ
+stops,stop_name,CHHP17,ur,چاہل پل
+stops,stop_name,CHPN14,ur,چرا پنڈ
+stops,stop_name,CHCR9,ur,چیرنگ کراس
+stops,stop_name,CHRC12,ur,چیئرنگ کراس
+stops,stop_name,CHIS14,ur,چھوٹا اشارہ اسٹاپ
+stops,stop_name,CHYK11,ur,چوک یتیم خانہ
+stops,stop_name,CHJI9,ur,چوبرجی
+stops,stop_name,CHAS7,ur,چونگی امرسدھو
+stops,stop_name,CASD4,ur,چونگی امرسدھو
+stops,stop_name,CHMS14,ur,چونگی امرسدھو بس اسٹاپ
+stops,stop_name,CHGS18,ur,چونگی اسٹاپ
+stops,stop_name,CTBS11,ur,سٹی بس سٹینڈ
+stops,stop_name,CSEC15,ur,سول سیکٹریٹ
+stops,stop_name,CLBC16,ur,کلب چوک
+stops,stop_name,CLBR12,ur,کلب روڈ
+stops,stop_name,CMHS19,ur,سی ایم ایچ
+stops,stop_name,CGRD3,ur,کالج روڈ
+stops,stop_name,CLGS4,ur,کالج اسٹاپ
+stops,stop_name,DMES19,ur,ڈی-میس خورشید عالم روڈ
+stops,stop_name,DWOT8,ur,ڈائیوو ٹرمینل
+stops,stop_name,DWOT16,ur,ڈائیوو ٹرمینل
+stops,stop_name,DRBS14,ur,دربار برکت شاہ
+stops,stop_name,DSKC18,ur,داساکو چوک
+stops,stop_name,DEFC14,ur,ڈیفینس چوک
+stops,stop_name,DFCM4,ur,ڈیفینس موڑ
+stops,stop_name,DEOP17,ur,دیو پل
+stops,stop_name,DPCK7,ur,ڈیپو چوک
+stops,stop_name,DPTC13,ur,ڈپو چوک
+stops,stop_name,DRAC17,ur,ڈیرہ چاہل
+stops,stop_name,DCNH14,ur,ڈیسکون ہیڈ کوارٹرز
+stops,stop_name,DHAN14,ur,ڈی ایچ اے نرسری
+stops,stop_name,DHPB19,ur,دھرم پورہ پل
+stops,stop_name,DOCH8,ur,ڈاکٹر اسپتال
+stops,stop_name,DBCK11,ur,دبئی چوک
+stops,stop_name,DULM14,ur,دلم
+stops,stop_name,DLAK14,ur,دلہ خورد
+stops,stop_name,ELLR10,ur,ایلیفینٹ لنک روڈ
+stops,stop_name,ELTS17,ur,ایلیٹ اسکول
+stops,stop_name,EROS19,ur,یورو اسٹور
+stops,stop_name,EXPC16,ur,ایکسپو سینٹر
+stops,stop_name,FBLK16,ur,ایف بلاک
+stops,stop_name,FMES19,ur,ایف- میس شامی روڈ
+stops,stop_name,FQRH11,ur,فاروق اسپتال
+stops,stop_name,FTMM20,ur,فاطمہ مسجد
+stops,stop_name,FJIF14,ur,فوجی فاؤنڈیشن
+stops,stop_name,FZLT18,ur,فضل ٹاؤن
+stops,stop_name,FRZW3,ur,فیروز والا
+stops,stop_name,FRDM15,ur,فردوس مارکیٹ
+stops,stop_name,FLTS11,ur,فلیٹ اسٹاپ
+stops,stop_name,FRTS12,ur,فورٹریس اسٹیڈیم
+stops,stop_name,FTRS19,ur,فورٹریس اسٹیڈیم
+stops,stop_name,JTG48,ur,جی۔4 جوہر ٹاون
+stops,stop_name,GJMA17,ur,گجوُ متہ
+stops,stop_name,GAMT14,ur,گجومتہ
+stops,stop_name,GGRH9,ur,گنگا رام اسپتال
+stops,stop_name,GAT48,ur,گیٹ نمبر4
+stops,stop_name,GHKS17,ur,گھنکر اسٹاپ
+stops,stop_name,GRSB19,ur,گڑھی شاہو بازار
+stops,stop_name,GRSC19,ur,گڑھی شاہو چوک
+stops,stop_name,GHZC4,ur,غازی چوک
+stops,stop_name,GZIC7,ur,غازی چوک
+stops,stop_name,GZIC13,ur,غازی چوک
+stops,stop_name,GZIC14,ur,غازی چوک
+stops,stop_name,GZI214,ur,غازی چوک-2
+stops,stop_name,GRJC12,ur,گرجا چوک
+stops,stop_name,GCEB16,ur,گرلز کالج ای بلاک
+stops,stop_name,GNDC13,ur,گوندل چوک
+stops,stop_name,GCUS12,ur,گورنمنٹ کالج یونیورسٹی
+stops,stop_name,GORH12,ur,گورنر ہاؤس
+stops,stop_name,GPOS12,ur,جی پی او
+stops,stop_name,GRBS11,ur,گرینڈ بیٹری اسٹاپ
+stops,stop_name,GLDH13,ur,گلاب دیوی اسپتال
+stops,stop_name,GLEI11,ur,گلشن اقبال
+stops,stop_name,GYMK12,ur,جم خانہ
+stops,stop_name,HFZC11,ur,حفیظ سینٹر
+stops,stop_name,HFZC15,ur,حفیظ سینٹر
+stops,stop_name,HDRD3,ur,حیدر روڈ
+stops,stop_name,HLCG8,ur,ھیلے کالج
+stops,stop_name,HJIC9,ur,حاجی کیمپ
+stops,stop_name,HMDC7,ur,ہمدرد چوک
+stops,stop_name,HNJW4,ur,ہنجڑوال
+stops,stop_name,HUPU17,ur,ہش پپیز
+stops,stop_name,IBAS8,ur,آئی بی اے اسٹاپ
+stops,stop_name,ICHR10,ur,اچھرہ
+stops,stop_name,IMMC3,ur,امامیۃ کالونی
+stops,stop_name,IRMM19,ur,انفینٹری روڈ میاں میر
+stops,stop_name,IQA216,ur,اقبال ایونیو چوک 2
+stops,stop_name,IFQH13,ur,اتفاق اسپتال
+stops,stop_name,JNZG15,ur,جنازگاہ
+stops,stop_name,JVDN18,ur,جاوید نگر
+stops,stop_name,JNHH8,ur,جناح اسپتال
+stops,stop_name,JIMU18,ur,جیا موسیٰ
+stops,stop_name,JDLC8,ur,جوڈیشل کالونی
+stops,stop_name,JUDC16,ur,جوڈیشیل کالونی
+stops,stop_name,KHNA14,ur,کاہنہ
+stops,stop_name,KLKT3,ur,کالا ختائی
+stops,stop_name,KLKS11,ur,کالی کوٹھی اسٹاپ
+stops,stop_name,KLMC16,ur,کلمہ چوک
+stops,stop_name,KLMC8,ur,کلمہ چوک
+stops,stop_name,KMHN14,ur,کلمہ چوک
+stops,stop_name,KRBM10,ur,کما ہا ں
+stops,stop_name,KRMA10,ur,کریم بلاک
+stops,stop_name,KSHP3,ur,کرم آباد
+stops,stop_name,KSHG3,ur,کشمیر پارک
+stops,stop_name,KTC215,ur,کچہری
+stops,stop_name,KTKS20,ur,کچی کوٹھی اسٹاپ
+stops,stop_name,KHHC13,ur,کھوکھر چوک
+stops,stop_name,KNDC15,ur,کنیئرڈ کالج
+stops,stop_name,KRYS4,ur,کوڑے اسٹاپ
+stops,stop_name,KTAM18,ur,کوٹ عبدالمالک
+stops,stop_name,KLPS13,ur,کوٹ لکھپت ریلوے اسٹیشن
+stops,stop_name,KSUD3,ur,کوٹ شھاب الدین
+stops,stop_name,KTRS7,ur,کوٹ لکھپت اسٹیشن
+stops,stop_name,LCDB16,ur,لیڈیز کلب ڈی بلاک
+stops,stop_name,LHRC15,ur,لاہور کالج
+stops,stop_name,LHRZ9,ur,لاہور چڑیا گھر
+stops,stop_name,LHRZ12,ur,لاہور چڑیا گھر
+stops,stop_name,LJHC13,ur,لجھنا چوک
+stops,stop_name,LRAD3,ur,لکشمی چوک
+stops,stop_name,LAGC3,ur,لاری اڈا گول چکر
+stops,stop_name,LAGC5,ur,لاری اڈا گول چکر
+stops,stop_name,LDAC20,ur,ایل ڈی اے ایونیو چوک
+stops,stop_name,LDGC14,ur,ایل ڈی اے گول چکر
+stops,stop_name,LDAP16,ur,ایل ڈی اے پلازہ
+stops,stop_name,LSCO14,ur,لیسکو
+stops,stop_name,LBTC11,ur,لبرٹی چوک
+stops,stop_name,LBRT15,ur,لبرٹی چوک
+stops,stop_name,LHWP5,ur,لوہےوالی پلی
+stops,stop_name,LOSS10,ur,ایل او ایس
+stops,stop_name,MALC13,ur,محمد علی چوک
+stops,stop_name,MAOC15,ur,ایم اے او کالج
+stops,stop_name,MCHF3,ur,ماچس فیکٹری
+stops,stop_name,MDNC5,ur,مدینہ چوک
+stops,stop_name,BKAM18,ur,مین بازار کوٹ عبدالمالک
+stops,stop_name,MAIM15,ur,مین مارکیٹ
+stops,stop_name,MMGL11,ur,مین مارکیٹ گلبرگ
+stops,stop_name,MMG211,ur,مین مارکیٹ
+stops,stop_name,MRJP18,ur,معراج پارک
+stops,stop_name,MLKP14,ur,ملک پورہ
+stops,stop_name,MNTP18,ur,منڈیالی ٹول پلازہ
+stops,stop_name,MSJI14,ur,مسجد ابراہیم
+stops,stop_name,MSDR5,ur,ماسوم شاہ دربار
+stops,stop_name,MAZN15,ur,مزنگ
+stops,stop_name,MCDS15,ur,میکڈونلڈز
+stops,stop_name,MCDS16,ur,میکڈونلڈز
+stops,stop_name,MCD111,ur,میکڈونلڈز
+stops,stop_name,MCD211,ur,میکڈونلڈز
+stops,stop_name,MTRO3,ur,میٹرو
+stops,stop_name,MTRO18,ur,میٹرو
+stops,stop_name,MINM12,ur,میاں میر
+stops,stop_name,MLTF20,ur,ملت فیکٹری
+stops,stop_name,MUNI7,ur,منھاج یونیورسٹی
+stops,stop_name,MINM11,ur,منی مارکیٹ
+stops,stop_name,MNIM15,ur,منی مارکیٹ
+stops,stop_name,MRZC20,ur,مرزا چوک
+stops,stop_name,MCHP13,ur,موچی پورہ موڑ
+stops,stop_name,MCPM16,ur,موچی پورہ موڑ
+stops,stop_name,MDT13,ur,ماڈل ٹاؤن
+stops,stop_name,MDTK7,ur,ماڈل ٹاوٗن کچھری
+stops,stop_name,MTLR13,ur,ماڈل ٹاؤن لنک روڈ
+stops,stop_name,MTLR16,ur,ماڈل ٹاؤن لنک روڈ
+stops,stop_name,MDTM16,ur,ماڈل ٹاؤن موڑ
+stops,stop_name,MTWC18,ur,موٹروے سٹی
+stops,stop_name,MGEH8,ur,مغل آئی اسپتال
+stops,stop_name,MUTC10,ur,ملتان چونگی
+stops,stop_name,MMBH20,ur,ممتاز بختاوراسپتال
+stops,stop_name,MUNR19,ur,منیر روڈ
+stops,stop_name,MUSC13,ur,مسلم چوک
+stops,stop_name,MSTT10,ur,مصطفٰی ٹاون
+stops,stop_name,NDMC4,ur,ندیم چوک
+stops,stop_name,NDMC15,ur,ندیم چوک
+stops,stop_name,NDMC19,ur,ندیم چوک
+stops,stop_name,NDRA14,ur,نادرآباد
+stops,stop_name,NASK18,ur,نین سکھ
+stops,stop_name,NZIC18,ur,نیازی چوک
+stops,stop_name,NZCI18,ur,نیازی چوک انٹر چینج
+stops,stop_name,NKAS14,ur,ناکااسٹاپ
+stops,stop_name,NAQS10,ur,نقشہ اسٹاپ
+stops,stop_name,NSRB13,ur,نصیرآباد
+stops,stop_name,NSRB15,ur,ناصر باغ
+stops,stop_name,NSCH19,ur,نیوی سلیکشن سینٹر-ہائپر
+stops,stop_name,NWZH3,ur,نواز شریف اسپتال
+stops,stop_name,NZRD3,ur,ںاظم روڈ
+stops,stop_name,NZIA11,ur,نیازی اڈا
+stops,stop_name,NZIC3,ur,نیازی چوک
+stops,stop_name,NZII3,ur,نیازی انٹرچینج
+stops,stop_name,NSHA17,ur,نشاط
+stops,stop_name,NSDM17,ur,نشاط ڈائنگ ملز
+stops,stop_name,NSHM17,ur,نشاط ملز
+stops,stop_name,NSTC14,ur,نشتر کالونی
+stops,stop_name,NRBS7,ur,نرسری بس اسٹاپ
+stops,stop_name,PUES20,ur,پی یو ایمپلائی سوسائٹی
+stops,stop_name,PSHC16,ur,پیس شاپنگ سینٹر
+stops,stop_name,PKGE4,ur,پیکیجز
+stops,stop_name,PAFM12,ur,پی اے ایف مارکیٹ
+stops,stop_name,PKIC16,ur,پاکستانی چوک
+stops,stop_name,PCHT12,ur,پی سی ہوٹل
+stops,stop_name,PSIR16,ur,پی سی ایس آئی آر
+stops,stop_name,PSR18,ur,پی۔سی۔ایس۔آئی۔آر ۔1
+stops,stop_name,PECM7,ur,پیکوموڑ
+stops,stop_name,PCOM13,ur,پیکو مور
+stops,stop_name,PHTK13,ur,پھاٹک منڈی
+stops,stop_name,PHKI13,ur,پھاٹکی۔
+stops,stop_name,PTKS7,ur,پھاٹکی اسٹاپ
+stops,stop_name,PHMS7,ur,پھاٹک منڈی اسٹاپ
+stops,stop_name,PLSC11,ur,پائلٹ اسکول
+stops,stop_name,PNDS7,ur,پنڈی اسٹاپ
+stops,stop_name,PNDS13,ur,پنڈی اسٹاپ
+stops,stop_name,PLK117,ur,پی کے ایل آئی 1
+stops,stop_name,POLL9,ur,پولیس لائین
+stops,stop_name,PLSG19,ur,تھانہ گڑھی شاہو
+stops,stop_name,PSOS14,ur,پی ایس او
+stops,stop_name,PUCM11,ur,پنجاب یونیورسٹی کیمپس
+stops,stop_name,PUEH10,ur,پنجاب یونیورسٹی ایگزامینیشن ہال
+stops,stop_name,PUOC12,ur,پنجاب یونیورسٹی اولڈ کیمپس
+stops,stop_name,PLBS7,ur,پلی بس سٹاپ
+stops,stop_name,PIOC15,ur,پنجاب انسٹیٹیوٹ آف کارڈیالوجی
+stops,stop_name,PRKH14,ur,پرانا کاہنہ
+stops,stop_name,QDFS8,ur,قذافی اسٹیڈیم
+stops,stop_name,QDFS16,ur,قذافی اسٹیڈیم
+stops,stop_name,QNCH4,ur,قینچی
+stops,stop_name,QCHS7,ur,قینچی اسٹاپ
+stops,stop_name,QRTC10,ur,قرطبہ چوک
+stops,stop_name,QZBC20,ur,قرطبہ چوک
+stops,stop_name,QALC16,ur,قزلباش چوک
+stops,stop_name,RABZ15,ur,قائداعظم لاء کالج
+stops,stop_name,RABZ19,ur,آر اے بازار
+stops,stop_name,RABZ14,ur,آر اے بازار
+stops,stop_name,RCNT3,ur,رچنا ٹاون
+stops,stop_name,RHTB12,ur,راحت بیکری
+stops,stop_name,RHMB20,ur,رحیم آباد
+stops,stop_name,RLWM14,ur,ریلو والی مسجد
+stops,stop_name,RWHQ19,ur,ریلوے ہیڈ کوارٹر
+stops,stop_name,RAWS9,ur,ریلوے اسٹیشن
+stops,stop_name,RWST19,ur,ریلوے اسٹیشن
+stops,stop_name,RLWT3,ur,ریلوے اسٹیشن
+stops,stop_name,RJBP17,ur,راجہ بھولا پل
+stops,stop_name,RJPP5,ur,راجپوت پارک
+stops,stop_name,RMZN17,ur,رمضان نرسری
+stops,stop_name,RANT3,ur,رانا ٹاون
+stops,stop_name,RZAB10,ur,رضا بلاک
+stops,stop_name,REGC12,ur,ریگل چوک
+stops,stop_name,RHMP10,ur,رحمان پورہ
+stops,stop_name,RHEH7,ur,رحمت آیئ اسپتال
+stops,stop_name,RHMP14,ur,رحمت پارک
+stops,stop_name,RNGC16,ur,رنگ چوک
+stops,stop_name,RUNI20,ur,رفاہ یونیورسٹی
+stops,stop_name,RZNP15,ur,روزنامہ پاکستان
+stops,stop_name,RUSF18,ur,رستم سھراب فیکٹری
+stops,stop_name,SBZM5,ur,سبزی منڈی
+stops,stop_name,SBZM13,ur,سبزی منڈی
+stops,stop_name,SCHM11,ur,اسکیم مور
+stops,stop_name,SCHS10,ur,اسکول اسٹاپ
+stops,stop_name,SCCG10,ur,سائنس کالج
+stops,stop_name,STCY14,ur,سیکٹر سی (وائی بلاک)
+stops,stop_name,SERH15,ur,سروسز اسپتال
+stops,stop_name,SRWR19,ur,سرور روڈ
+stops,stop_name,SDBU5,ur,شادباغ انڈرپاس
+stops,stop_name,SHWC16,ur,شادیوال چوک
+stops,stop_name,SHRS17,ur,شفیع ریسو
+stops,stop_name,SHDK8,ur,شاہ دی کھوئی
+stops,stop_name,SHDR18,ur,شاہدرا
+stops,stop_name,SHLA3,ur,شاہدرہ لاری اڈا
+stops,stop_name,SHMS18,ur,شاہدرہ میٹرو اسٹیشن
+stops,stop_name,SHMS3,ur,شاہدرہ میٹرو اسٹیشن
+stops,stop_name,SHRS3,ur,شاہدرہ ریلوے اسٹیشن
+stops,stop_name,SHDC16,ur,شہید چوک
+stops,stop_name,SHZH11,ur,شیخ زید اسپتال
+stops,stop_name,SHMA10,ur,شمع
+stops,stop_name,SHNC16,ur,شان چوک
+stops,stop_name,SRFM4,ur,شریف مارکیٹ
+stops,stop_name,SHKH16,ur,شوکت خانم اسپتال
+stops,stop_name,SSHR20,ur,شیر شاہ روڈ
+stops,stop_name,SHRG3,ur,شیراں والا گیٹ
+stops,stop_name,SHZF11,ur,شیزان فیکٹری
+stops,stop_name,SHLP9,ur,شملہ پہاڑی
+stops,stop_name,SHP29,ur,شملہ پہاڑی 2
+stops,stop_name,SHKT14,ur,شوکت ٹاؤن
+stops,stop_name,SHQC16,ur,شوق چوک
+stops,stop_name,SQTC11,ur,صدیق ٹریڈ سینٹر
+stops,stop_name,SQTC15,ur,صدیق ٹریڈ سینٹر
+stops,stop_name,SKDB10,ur,اسکندر بلاک
+stops,stop_name,SCBS7,ur,سومی سینٹر بس اسٹاپ
+stops,stop_name,SRAS17,ur,سورا ا سٹاپ
+stops,stop_name,TSHP4,ur,ٹی۔ اسٹاپ
+stops,stop_name,TSHP15,ur,ٹی۔ اسٹاپ
+stops,stop_name,TELE12,ur,ٹیلی فون ایکسچینج
+stops,stop_name,TXLC5,ur,ٹیکسالی چوک
+stops,stop_name,TXLC18,ur,ٹیکسالی چوک
+stops,stop_name,TXLO3,ur,ٹیکسالی چوک
+stops,stop_name,TXLT3,ur,ٹیکسالی چوک
+stops,stop_name,THTH17,ur,تھیٹر اسٹاپ
+stops,stop_name,THNB16,ur,ٹھوکر نیاز بیگ
+stops,stop_name,THNB8,ur,ٹھوکر نیاز بیگ
+stops,stop_name,TMBM3,ur,ٹمبر مارکیٹ
+stops,stop_name,TIMM18,ur,ٹمبر مارکیٹ
+stops,stop_name,TRHS17,ur,ٹرانسپورٹ ہاؤسنگ سوسائیٹی
+stops,stop_name,TRTS7,ur,ٹریٹ اسٹاپ
+stops,stop_name,TRTS13,ur,ٹریٹ اسٹاپ
+stops,stop_name,UCPS16,ur,یو سی پی
+stops,stop_name,UMTS13,ur,یو ایم ٹی اسٹاپ
+stops,stop_name,UMTS20,ur,یو ایم ٹی اسٹاپ
+stops,stop_name,UOSA20,ur,یونیورسٹی آف ساؤتھ ایشیا
+stops,stop_name,USMC5,ur,عثمان چوک
+stops,stop_name,WADR3,ur,ونڈالا روڈ
+stops,stop_name,VNSH14,ur,وینس ہاؤسنگ
+stops,stop_name,WFQC8,ur,وفاقی کالونی
+stops,stop_name,WHDC10,ur,وحدت کالونی
+stops,stop_name,WHRS10,ur,واحدت روڈاسٹیشن
+stops,stop_name,WATN4,ur,والٹن
+stops,stop_name,WPDT16,ur,واپڈا ٹاؤن
+stops,stop_name,WARR9,ur,وارث روڈ
+stops,stop_name,WRKS4,ur,ورکشاپ
+stops,stop_name,YHNB14,ur,یوحنا آباد
+stops,stop_name,YUFP18,ur,یوسف پارک
+stops,stop_name,ZFAR15,ur,ظفر علی روڈ
+stops,stop_name,SN2518B,ur,25 نمبراسٹاپ
+stops,stop_name,STN514B,ur,5 نمبر اسٹاپ
+stops,stop_name,ABPM10B,ur,آب پارہ مارکیٹ
+stops,stop_name,ABDS16B,ur,ابدالیّن سوسائیٹی
+stops,stop_name,ABMR19B,ur,عابد مجید روڈ
+stops,stop_name,ADP120B,ur,اڈا پلاٹ گول چکر
+stops,stop_name,AFSC12B,ur,افشاں چوک
+stops,stop_name,ARGT20B,ur,ایگریکس ٹاؤن
+stops,stop_name,ALUR14B,ur,اہلو روڈ
+stops,stop_name,ATSC12B,ur,ایچیسن کالج
+stops,stop_name,AWEI9B,ur,ایوان اقبال
+stops,stop_name,AKBC16B,ur,اکبر چوک
+stops,stop_name,AKBC13B,ur,اکبر چوک
+stops,stop_name,ALHS13B,ur,الحبیب اسٹاپ
+stops,stop_name,AWHG18B,ur,الوہاب گارڈن
+stops,stop_name,ALDS16B,ur,علیم ڈار اسٹیڈیم
+stops,stop_name,AHSH5B,ur,علی ہجویری شادی ہال
+stops,stop_name,ALMA17B,ur,علی مرتضیٰ ایسوسیٹس
+stops,stop_name,ALTS20B,ur,علی ٹاؤن اسٹیشن
+stops,stop_name,ALVG14B,ur,علی ویو گارڈن
+stops,stop_name,ARAB20B,ur,علی رضا آباد
+stops,stop_name,AUDR12B,ur,علاوؑالدین روڈ
+stops,stop_name,AUDR19B,ur,علاوؑ الدین روڈ
+stops,stop_name,ALHC16B,ur,اللہ ھو چوک
+stops,stop_name,ANRK12B,ur,انارکلی
+stops,stop_name,ARFA14B,ur,عارف آباد
+stops,stop_name,ASLC13B,ur,اسلم چوک
+stops,stop_name,ATSB14B,ur,اٹاری سروبہ
+stops,stop_name,AVNH17B,ur,ایو سینا اسپتال
+stops,stop_name,AWNM14B,ur,اعوان مارکیٹ
+stops,stop_name,AYBC16B,ur,ایوب چوک
+stops,stop_name,AZDC3B,ur,آذادی چوک
+stops,stop_name,AZIC5B,ur,آذادی چوک
+stops,stop_name,AZDC18B,ur,آذادی چوک
+stops,stop_name,AZCT3B,ur,آزادی چوک
+stops,stop_name,BEPK4B,ur,باب پاکستان
+stops,stop_name,BBSB11B,ur,بابو صابو
+stops,stop_name,BDMB5B,ur,بادامی باغ
+stops,stop_name,BGRN13B,ur,باگڑیاں
+stops,stop_name,BGMK18B,ur,بیگم کوٹ
+stops,stop_name,BSCB16B,ur,بینک اسکوائر سی بلاک
+stops,stop_name,BNKS10B,ur,بینک اسٹاپ
+stops,stop_name,BRKM8B,ur,برکت مارکیٹ
+stops,stop_name,BKTM11B,ur,برکت مارکیٹ
+stops,stop_name,BRKT3B,ur,برکت ٹاوٗن
+stops,stop_name,BHBS13B,ur,بھابڑہ اسٹاپ
+stops,stop_name,BHTC14B,ur,بھٹہ چوک
+stops,stop_name,BHTP20B,ur,بھٹہ پنڈ
+stops,stop_name,BHTC3B,ur,بھاٹی چوک
+stops,stop_name,BHTC15B,ur,بھاٹی چوک
+stops,stop_name,BHTC5B,ur,بھاٹی چوک
+stops,stop_name,BHTC18B,ur,بھاٹی چوک
+stops,stop_name,BHKM10B,ur,بھیکیوال موڑ
+stops,stop_name,BKWM11B,ur,بھیکیوال موڑ
+stops,stop_name,BHTN20B,ur,بھوبتیاں چوک
+stops,stop_name,BHTC20B,ur,بھوبتیاں پنڈ
+stops,stop_name,BHLV17B,ur,بھولر گاؤں
+stops,stop_name,BILD11B,ur,بلال ڈائیوو
+stops,stop_name,BHWC19B,ur,بوہڑ والا چوک
+stops,stop_name,BNRS11B,ur,بند روڈ اسٹیشن
+stops,stop_name,BUTC13B,ur,بٹ چوک
+stops,stop_name,CMPP8B,ur,کیمپس پل
+stops,stop_name,CAMP11B,ur,کیمپس پل
+stops,stop_name,CNAL16B,ur,کنال
+stops,stop_name,CANL8B,ur,کنال
+stops,stop_name,CANL10B,ur,کنال
+stops,stop_name,CNLB12B,ur,کینال پل
+stops,stop_name,CVGO8B,ur,کنال ویوگیٹ 1
+stops,stop_name,CVGT8B,ur,کنال ویوگیٹ 2
+stops,stop_name,CTBS14B,ur,کینٹ بس اسٹاپ
+stops,stop_name,CALR15B,ur,کیولری روڈ
+stops,stop_name,CNTP11B,ur,سینٹر پوائنٹ
+stops,stop_name,CNTP15B,ur,سینٹر پوائنٹ
+stops,stop_name,CHHP17B,ur,چاہل پل
+stops,stop_name,CHRP14B,ur,چرڑ پنڈ
+stops,stop_name,CHCR9B,ur,چیئرنگ کراس
+stops,stop_name,CHRC12B,ur,چیئرنگ کراس
+stops,stop_name,CHIS14B,ur,چھوٹا اشارہ اسٹاپ
+stops,stop_name,CHJI9B,ur,چوبرجی
+stops,stop_name,CHAS7B,ur,چونگی امرسدھو
+stops,stop_name,CHAS14B,ur,چونگی امرسدھو
+stops,stop_name,CASD4B,ur,چونگی امرسدھو
+stops,stop_name,CHMS14B,ur,چونگی میٹرو اسٹیشن
+stops,stop_name,CHGS18B,ur,چونگی اسٹاپ
+stops,stop_name,CTBS11B,ur,سٹی بس سٹینڈ
+stops,stop_name,CSEC15B,ur,سول سیکٹریٹ
+stops,stop_name,CLBC16B,ur,کلب چوک
+stops,stop_name,CLBR12B,ur,کلب روڈ
+stops,stop_name,CMHS19B,ur,سی ایم ایچ
+stops,stop_name,CGRD3B,ur,کالج روڈ
+stops,stop_name,CLGS4B,ur,کالج اسٹاپ
+stops,stop_name,DMES19B,ur,ڈی-میس خورشید عالم روڈ
+stops,stop_name,DWOT8B,ur,ڈائیوو ٹرمینل
+stops,stop_name,DWOT16B,ur,ڈائیوو ٹرمینل
+stops,stop_name,DRBS14B,ur,دربار برکت شاہ
+stops,stop_name,DSKC18B,ur,داساکو چوک
+stops,stop_name,DEFC14B,ur,ڈیفینس چوک
+stops,stop_name,DFCM4B,ur,ڈیفینس موڑ
+stops,stop_name,DEOP17B,ur,دیو پل
+stops,stop_name,DPCK7B,ur,ڈیپو چوک
+stops,stop_name,DPTC13B,ur,ڈپو چوک
+stops,stop_name,DRAC17B,ur,ڈیرہ چاہل
+stops,stop_name,DCNH14B,ur,ڈیسکون ہیڈ کوارٹرز
+stops,stop_name,DHAN14B,ur,ڈی ایچ اے نرسری
+stops,stop_name,DHPB19B,ur,دھرم پورہ پل
+stops,stop_name,DOCH8B,ur,ڈاکٹر اسپتال
+stops,stop_name,DBCK11B,ur,دبئی چوک
+stops,stop_name,DULM14B,ur,دلم
+stops,stop_name,DLAK14B,ur,دلہ خورد
+stops,stop_name,ELLR10B,ur,ایلیفینٹ لنک روڈ
+stops,stop_name,ELTS17B,ur,ایلیٹ اسکول
+stops,stop_name,EROS19B,ur,یورو اسٹور
+stops,stop_name,EXPC16B,ur,ایکسپو سینٹر
+stops,stop_name,FBLK16B,ur,ایف بلاک
+stops,stop_name,FMES19B,ur,ایف- میس شامی روڈ
+stops,stop_name,FQRH11B,ur,فاروق اسپتال
+stops,stop_name,FTMM20B,ur,فاطمہ مسجد
+stops,stop_name,FJIF14B,ur,فوجی فاؤنڈیشن
+stops,stop_name,FZLT18B,ur,فضل ٹاؤن
+stops,stop_name,FRZW3B,ur,فیروز والا
+stops,stop_name,FRDM15B,ur,فردوس مارکیٹ
+stops,stop_name,FZHS20B,ur,فضایٔہ ھاؤسنگ اسکیم
+stops,stop_name,FLTS11B,ur,فلیٹ اسٹاپ
+stops,stop_name,FTRS19B,ur,فورٹریس اسٹیڈیم
+stops,stop_name,GJMA17B,ur,گجوُ متہ (آر ٹی 17)
+stops,stop_name,GJMP17B,ur,گجومتہ
+stops,stop_name,GAMT14B,ur,گجومتہ
+stops,stop_name,GMTI14B,ur,گجومتہ انٹرچینج
+stops,stop_name,GGRH9B,ur,گنگا رام اسپتال
+stops,stop_name,GAT48B,ur,گیٹ نمبر4
+stops,stop_name,GHKS17B,ur,گھنکر اسٹاپ
+stops,stop_name,GRSB19B,ur,گڑھی شاہو بازار
+stops,stop_name,GRSC19B,ur,گڑھی شاہو چوک
+stops,stop_name,GHZC4B,ur,غازی چوک
+stops,stop_name,GZIC7B,ur,غازی چوک
+stops,stop_name,GZIC13B,ur,غازی چوک
+stops,stop_name,GZIC14B,ur,غازی چوک
+stops,stop_name,GRJC12B,ur,گرجا چوک
+stops,stop_name,GCEB16B,ur,گرلز کالج ای بلاک
+stops,stop_name,GNDC13B,ur,گوندل چوک
+stops,stop_name,GORH12B,ur,گورنر ہاؤس
+stops,stop_name,GPOS12B,ur,جی پی او
+stops,stop_name,GRBS11B,ur,گرینڈ بیٹری اسٹاپ
+stops,stop_name,GLDH13B,ur,گلاب دیوی اسپتال
+stops,stop_name,GLEI11B,ur,گلشن اقبال
+stops,stop_name,GYMK12B,ur,جم خانہ
+stops,stop_name,HFZC11B,ur,حفیظ سینٹر
+stops,stop_name,HFZC15B,ur,حفیظ سینٹر
+stops,stop_name,HDRD3B,ur,حیدر روڈ
+stops,stop_name,HLCG8B,ur,ھیلے کالج
+stops,stop_name,HJIC9B,ur,حاجی کیمپ
+stops,stop_name,HMDC7B,ur,ہمدرد چوک
+stops,stop_name,HNJW4B,ur,ہنجڑوال
+stops,stop_name,HUPU17B,ur,ہش پپیز
+stops,stop_name,IBAS8B,ur,آئی بی اے اسٹاپ
+stops,stop_name,ICHR10B,ur,اچھرہ
+stops,stop_name,IMMC3B,ur,امامیۃ کالونی
+stops,stop_name,IRMM19B,ur,انفینٹری روڈ میاں میر
+stops,stop_name,IQA216B,ur,اقبال ایونیو چوک 2
+stops,stop_name,IFQH13B,ur,اتفاق اسپتال
+stops,stop_name,JNMN15B,ur,جنازگاہ
+stops,stop_name,JNZG15B,ur,جاوید نگر
+stops,stop_name,JVDN18B,ur,جناح اسپتال
+stops,stop_name,JIMU18B,ur,جیا موسیٰ
+stops,stop_name,JUDC16B,ur,جوڈیشل کالونی
+stops,stop_name,KHNA14B,ur,کاہنہ
+stops,stop_name,KLKT3B,ur,کالا ختائی
+stops,stop_name,KLKS11B,ur,کالی کوٹھی اسٹاپ
+stops,stop_name,KLMC15B,ur,کلمہ چوک
+stops,stop_name,KLMC16B,ur,کلمہ چوک
+stops,stop_name,KLMC8B,ur,کلمہ چوک
+stops,stop_name,KLMC13B,ur,کلمہ چوک
+stops,stop_name,KMHN14B,ur,کما ہا ں
+stops,stop_name,KMHR14B,ur,کما ہا ں روڈ
+stops,stop_name,KRBM10B,ur,کریم بلاک مارکیٹ
+stops,stop_name,KRMA10B,ur,کرم آباد
+stops,stop_name,KSHP3B,ur,کشمیر پارک
+stops,stop_name,KSHG3B,ur,کشمیری گیٹ
+stops,stop_name,KTC215B,ur,کچہری
+stops,stop_name,KTKS20B,ur,کچی کوٹھی اسٹاپ
+stops,stop_name,KHHC13B,ur,کھوکھر چوک
+stops,stop_name,KNDC15B,ur,کنیئرڈ کالج
+stops,stop_name,KRYS4B,ur,کوڑے اسٹاپ
+stops,stop_name,KTAM18B,ur,کوٹ عبدالمالک
+stops,stop_name,KLRS13B,ur,کوٹ لکھپت ریلوے اسٹیشن
+stops,stop_name,KSUD3B,ur,کوٹ شھاب الدین
+stops,stop_name,KTRS7B,ur,کوٹ لکھپت اسٹیشن
+stops,stop_name,LCDB16B,ur,لیڈیز کلب ڈی بلاک
+stops,stop_name,LHRC15B,ur,لاہور کالج
+stops,stop_name,LJHC13B,ur,لجھنا چوک
+stops,stop_name,LRAD3B,ur,لاری اڈا گول چکر
+stops,stop_name,LAGC3B,ur,لاری اڈا گول چکر
+stops,stop_name,LAGC5B,ur,لاری اڈا گول چکر
+stops,stop_name,LDAC20B,ur,ایل ڈی اے ایونیو چوک
+stops,stop_name,LDAC17B,ur,ایل ڈی اے سٹی
+stops,stop_name,LDAP16B,ur,ایل ڈی اے پلازہ
+stops,stop_name,LSCO14B,ur,لیسکو
+stops,stop_name,LBTC11B,ur,لبرٹی چوک
+stops,stop_name,LBRT15B,ur,لبرٹی چوک
+stops,stop_name,LHWP5B,ur,لوہےوالی پلی
+stops,stop_name,LOSS10B,ur,ایل او ایس
+stops,stop_name,LOSS15B,ur,ایل او ایس
+stops,stop_name,MALC13B,ur,محمد علی چوک
+stops,stop_name,MAOC15B,ur,ایم اے او کالج
+stops,stop_name,MCHF3B,ur,ماچس فیکٹری
+stops,stop_name,MDNC5B,ur,مدینہ چوک
+stops,stop_name,BKAM18B,ur,مین بازار کوٹ عبدالمالک
+stops,stop_name,MAIM15B,ur,مین مارکیٹ
+stops,stop_name,MMGL11B,ur,مین مارکیٹ گلبرگ
+stops,stop_name,MRJP18B,ur,معراج پارک
+stops,stop_name,MLKP14B,ur,ملک پورہ
+stops,stop_name,MNTP18B,ur,منڈیالی ٹول پلازہ
+stops,stop_name,MSDR5B,ur,ماسوم شاہ دربار
+stops,stop_name,MAZN15B,ur,مزنگ
+stops,stop_name,MCDS15B,ur,میکڈونلڈز
+stops,stop_name,MCDS16B,ur,میکڈونلڈز
+stops,stop_name,MTRO3B,ur,میٹرو
+stops,stop_name,MTRO18B,ur,میٹرو (آر ٹی 18)
+stops,stop_name,MINM12B,ur,میاں میر
+stops,stop_name,MLTF20B,ur,ملت فیکٹری
+stops,stop_name,MUNI7B,ur,منھاج یونیورسٹی
+stops,stop_name,MINM11B,ur,منی مارکیٹ
+stops,stop_name,MNIM15B,ur,منی مارکیٹ
+stops,stop_name,MCHP13B,ur,موچی پورہ موڑ
+stops,stop_name,MCPM16B,ur,موچی پورہ موڑ
+stops,stop_name,MDT13B,ur,ماڈل ٹاؤن
+stops,stop_name,MTLR13B,ur,ماڈل ٹاؤن لنک روڈ
+stops,stop_name,MDTM16B,ur,ماڈل ٹاؤن موڑ
+stops,stop_name,MTWC18B,ur,موٹروے سٹی
+stops,stop_name,MUTC10B,ur,ملتان چونگی
+stops,stop_name,MMBH20B,ur,ممتاز بختاوراسپتال
+stops,stop_name,MUNR19B,ur,منیر روڈ
+stops,stop_name,MUSC13B,ur,مسلم چوک
+stops,stop_name,MSTT10B,ur,مصطفٰی ٹاون
+stops,stop_name,NDMC4B,ur,ندیم چوک
+stops,stop_name,NDMC15B,ur,ندیم چوک
+stops,stop_name,NDMC19B,ur,ندیم چوک
+stops,stop_name,NDRA14B,ur,نادرآباد
+stops,stop_name,NASK18B,ur,نین سکھ
+stops,stop_name,NZIC18B,ur,نیازی چوک
+stops,stop_name,NZCI18B,ur,نیازی چوک انٹر چینج
+stops,stop_name,NKAS14B,ur,ناکااسٹاپ
+stops,stop_name,NAQS10B,ur,نقشہ اسٹاپ
+stops,stop_name,NSRB13B,ur,نصیرآباد
+stops,stop_name,NSRB15B,ur,ناصر باغ
+stops,stop_name,NSCH19B,ur,نیوی سلیکشن سینٹر-ہائپر
+stops,stop_name,NWZH3B,ur,نواز شریف اسپتال
+stops,stop_name,NZRD3B,ur,ںاظم روڈ
+stops,stop_name,NZIA11B,ur,نیازی اڈا
+stops,stop_name,NZIC3B,ur,نیازی چوک
+stops,stop_name,NZII3B,ur,نیازی انٹرچینج
+stops,stop_name,NSHA17B,ur,نشاط
+stops,stop_name,NSDM17B,ur,نشاط ڈائنگ ملز
+stops,stop_name,NSHM17B,ur,نشاط ملز
+stops,stop_name,NSTC14B,ur,نشتر کالونی
+stops,stop_name,NRBS7B,ur,نرسری بس اسٹاپ
+stops,stop_name,PUES20B,ur,پی یو ایمپلائی سوسائٹی
+stops,stop_name,PSHC16B,ur,پیس شاپنگ سینٹر
+stops,stop_name,PKGE4B,ur,پیکیجز
+stops,stop_name,PAFM12B,ur,پی اے ایف مارکیٹ
+stops,stop_name,PKIC16B,ur,پاکستانی چوک
+stops,stop_name,PCHT12B,ur,پی سی ہوٹل
+stops,stop_name,PSIR16B,ur,پی سی ایس آئی آر
+stops,stop_name,PSR18B,ur,پی۔سی۔ایس۔آئی۔آر ۔1
+stops,stop_name,PECM7B,ur,پیکوموڑ
+stops,stop_name,PCOM13B,ur,پیکو مور
+stops,stop_name,PHTK13B,ur,پھاٹک منڈی
+stops,stop_name,PHKI13B,ur,پھاٹکی۔
+stops,stop_name,PTKS7B,ur,پھاٹکی اسٹاپ
+stops,stop_name,PLSC11B,ur,پائلٹ اسکول
+stops,stop_name,PNDS7B,ur,پنڈی اسٹاپ
+stops,stop_name,PNDS13B,ur,پنڈی اسٹاپ
+stops,stop_name,PLK117B,ur,پی کے ایل آئی 1
+stops,stop_name,POLL9B,ur,پولیس لائین
+stops,stop_name,PLSG19B,ur,تھانہ گڑھی شاہو
+stops,stop_name,PSOS14B,ur,پی ایس او
+stops,stop_name,PUCM11B,ur,پنجاب یونیورسٹی کیمپس
+stops,stop_name,PUEH10B,ur,پنجاب یونیورسٹی ایگزامینیشن ہال
+stops,stop_name,PUOC12B,ur,پنجاب یونیورسٹی اولڈ کیمپس
+stops,stop_name,PLBS7B,ur,پلی بس سٹاپ
+stops,stop_name,PIOC15B,ur,پنجاب انسٹیٹیوٹ آف کارڈیالوجی
+stops,stop_name,PRKH14B,ur,پرانا کاہنہ
+stops,stop_name,QDFS8B,ur,قذافی اسٹیڈیم
+stops,stop_name,QDFS16B,ur,قذافی اسٹیڈیم
+stops,stop_name,QNCH4B,ur,قینچی
+stops,stop_name,QCHS7B,ur,قینچی اسٹاپ
+stops,stop_name,QRTC15B,ur,قرطبہ چوک
+stops,stop_name,QRTC9B,ur,قرطبہ چوک
+stops,stop_name,QRTC10B,ur,قرطبہ چوک
+stops,stop_name,QZBC20B,ur,قزلباش چوک
+stops,stop_name,QALC16B,ur,قائداعظم لاء کالج
+stops,stop_name,RABZ15B,ur,آر اے بازار
+stops,stop_name,RABZ14B,ur,آر اے بازار
+stops,stop_name,RABZ19B,ur,آر اے بازار
+stops,stop_name,RCNT3B,ur,رچنا ٹاون
+stops,stop_name,RHTB12B,ur,راحت بیکری
+stops,stop_name,RHMB20B,ur,رحیم آباد
+stops,stop_name,RLWM14B,ur,ریلو والی مسجد
+stops,stop_name,RWHQ19B,ur,ریلوے ہیڈ کوارٹر
+stops,stop_name,RLWS300,ur,ریلوے اسٹیشن
+stops,stop_name,RAWS9B,ur,ریلوے اسٹیشن
+stops,stop_name,RWST19B,ur,ریلوے اسٹیشن
+stops,stop_name,RLWT3B,ur,ریلوے اسٹیشن
+stops,stop_name,RJBP17B,ur,راجہ بھولا پل
+stops,stop_name,RJPP5B,ur,راجپوت پارک
+stops,stop_name,RMZN17B,ur,رمضان نرسری
+stops,stop_name,RANT3B,ur,رانا ٹاون
+stops,stop_name,RZAB10B,ur,رضا بلاک
+stops,stop_name,REGC12B,ur,ریگل چوک
+stops,stop_name,RHMP10B,ur,رحمان پورہ
+stops,stop_name,RHEH7B,ur,رحمت آیئ اسپتال
+stops,stop_name,RHMP14B,ur,رحمت پارک
+stops,stop_name,RNGC16B,ur,رنگ چوک
+stops,stop_name,RUNI20B,ur,رفاہ یونیورسٹی
+stops,stop_name,RZNP15B,ur,روزنامہ پاکستان
+stops,stop_name,RUSF18B,ur,رستم سھراب فیکٹری
+stops,stop_name,SBZM5B,ur,سبزی منڈی
+stops,stop_name,SBZM13B,ur,سبزی منڈی
+stops,stop_name,SCHM11B,ur,اسکیم مور
+stops,stop_name,SCHS10B,ur,اسکول اسٹاپ
+stops,stop_name,SCCG10B,ur,سائنس کالج
+stops,stop_name,STCY14B,ur,سیکٹر سی (وائی بلاک)
+stops,stop_name,SERH15B,ur,سروسز اسپتال
+stops,stop_name,SRWR19B,ur,سرور روڈ
+stops,stop_name,SDBU5B,ur,شادباغ انڈرپاس
+stops,stop_name,SHWC16B,ur,شادیوال چوک
+stops,stop_name,SHRS17B,ur,شفیع ریسو
+stops,stop_name,SHDK8B,ur,شاہ دی کھوئی
+stops,stop_name,SHDR18B,ur,شاہدرا
+stops,stop_name,SHLA3B,ur,شاہدرہ لاری اڈا
+stops,stop_name,SHMS18B,ur,شاہدرہ میٹرو اسٹیشن
+stops,stop_name,SHMS3B,ur,شاہدرہ میٹرو اسٹیشن
+stops,stop_name,SHRS3B,ur,شاہدرہ ریلوے اسٹیشن
+stops,stop_name,SHDC16B,ur,شہید چوک
+stops,stop_name,SHZH11B,ur,شیخ زید اسپتال
+stops,stop_name,SHMA10B,ur,شمع
+stops,stop_name,SHNC16B,ur,شان چوک
+stops,stop_name,SRFM4B,ur,شریف مارکیٹ
+stops,stop_name,SHKH16B,ur,شوکت خانم اسپتال
+stops,stop_name,SSHR20B,ur,شیر شاہ روڈ
+stops,stop_name,SHRG3B,ur,شیراں والا گیٹ
+stops,stop_name,SHZF11B,ur,شیزان فیکٹری
+stops,stop_name,SHP29B,ur,شملہ پہاڑی
+stops,stop_name,SHKT14B,ur,شوکت ٹاؤن
+stops,stop_name,SHQC16B,ur,شوق چوک
+stops,stop_name,SQTC15B,ur,صدیق ٹریڈ سینٹر
+stops,stop_name,SKDB10B,ur,اسکندر بلاک
+stops,stop_name,SCBS7B,ur,سومی سینٹر بس اسٹاپ
+stops,stop_name,SRAS17B,ur,سورا ا سٹاپ
+stops,stop_name,TSHP4B,ur,ٹی۔ اسٹاپ
+stops,stop_name,TSHP15B,ur,ٹی۔ اسٹاپ
+stops,stop_name,THQH14B,ur,ٹی ایچ کیواسپتال
+stops,stop_name,TELE12B,ur,ٹیلی فون ایکسچینج
+stops,stop_name,TXLO3B,ur,ٹیکسالی چوک
+stops,stop_name,TXLC5B,ur,ٹیکسالی چوک
+stops,stop_name,TXLC18B,ur,ٹیکسالی چوک
+stops,stop_name,TXLT3B,ur,ٹیکسالی چوک
+stops,stop_name,THTH17B,ur,تھیٹر اسٹاپ
+stops,stop_name,THNB16B,ur,ٹھوکر نیاز بیگ
+stops,stop_name,THNB8B,ur,ٹھوکر نیاز بیگ
+stops,stop_name,TMBM3B,ur,ٹمبر مارکیٹ
+stops,stop_name,TIMM18B,ur,ٹمبر مارکیٹ
+stops,stop_name,TRHS17B,ur,ٹرانسپورٹ ہاؤسنگ سوسائیٹی
+stops,stop_name,TRTS7B,ur,ٹریٹ اسٹاپ
+stops,stop_name,TRTS13B,ur,ٹریٹ اسٹاپ
+stops,stop_name,UMTS13B,ur,یو ایم ٹی اسٹاپ
+stops,stop_name,UMTS20B,ur,یو ایم ٹی اسٹاپ
+stops,stop_name,UOSA20B,ur,یونیورسٹی آف ساؤتھ ایشیا
+stops,stop_name,USMC5B,ur,عثمان چوک
+stops,stop_name,WFQC8B,ur,وفاقی کالونی
+stops,stop_name,WHDC10B,ur,وحدت کالونی
+stops,stop_name,WHRS10B,ur,واحدت روڈاسٹیشن
+stops,stop_name,WATN4B,ur,والٹن
+stops,stop_name,WADR3B,ur,ونڈالا روڈ
+stops,stop_name,WPDT16B,ur,واپڈا ٹاؤن
+stops,stop_name,WARR9B,ur,وارث روڈ
+stops,stop_name,WRKS4B,ur,ورکشاپ
+stops,stop_name,YHNB14B,ur,یوحنا آباد
+stops,stop_name,YUFP18B,ur,یوسف پارک
+stops,stop_name,ZFAR15B,ur,ظفر علی روڈ
+trips,trip_headsign,MBRT10WD,ur,گجومتہ
+trips,trip_headsign,MBRT11WD,ur,شاہدرا
+trips,trip_headsign,MBRT10WE,ur,گجومتہ
+trips,trip_headsign,MBRT11WE,ur,شاہدرا
+trips,trip_headsign,MTRT0WD,ur,ڈیرہ گجراں
+trips,trip_headsign,MTRT1WD,ur,علی ٹاؤن 
+trips,trip_headsign,MTRT0WE,ur,ڈیرہ گجراں
+trips,trip_headsign,MTRT1WE,ur,علی ٹاؤن 
+trips,trip_headsign,MTRT0ED,ur,ڈیرہ گجراں
+trips,trip_headsign,MTRT1ED,ur,علی ٹاؤن 
+trips,trip_headsign,FRT030WD,ur,ریلوے اسٹیشن
+trips,trip_headsign,FRT031WD,ur,رانا ٹاون
+trips,trip_headsign,FRT030WE,ur,ریلوے اسٹیشن
+trips,trip_headsign,FRT031WE,ur,رانا ٹاون
+trips,trip_headsign,FRT040WD,ur,چونگی امرسدھو
+trips,trip_headsign,FRT041WD,ur,ار- اے بازار
+trips,trip_headsign,FRT040WE,ur,چونگی امرسدھو
+trips,trip_headsign,FRT041WE,ur,ار- اے بازار
+trips,trip_headsign,FRT050WD,ur,شادباغ انڈرپاس
+trips,trip_headsign,FRT051WD,ur,بھاٹی چوک
+trips,trip_headsign,FRT050WE,ur,شادباغ انڈرپاس
+trips,trip_headsign,FRT051WE,ur,بھاٹی چوک
+trips,trip_headsign,FRT070WD,ur,چونگی امرسدھو
+trips,trip_headsign,FRT071WD,ur,ڈیپو چوک
+trips,trip_headsign,FRT070WE,ur,چونگی امرسدھو
+trips,trip_headsign,FRT071WE,ur,ڈیپو چوک
+trips,trip_headsign,FRT080WD,ur,ڈائیوو ٹرمینل
+trips,trip_headsign,FRT081WD,ur,ںہر
+trips,trip_headsign,FRT080WE,ur,ڈائیوو ٹرمینل
+trips,trip_headsign,FRT081WE,ur,ںہر
+trips,trip_headsign,FRT090WD,ur,چوبرجی
+trips,trip_headsign,FRT091WD,ur,ریلوے اسٹیشن
+trips,trip_headsign,FRT090WE,ur,چوبرجی
+trips,trip_headsign,FRT091WE,ur,ریلوے اسٹیشن
+trips,trip_headsign,FRT100WD,ur, قرطبہ چوک
+trips,trip_headsign,FRT101WD,ur,وحدت روڈ اسٹیشن
+trips,trip_headsign,FRT100WE,ur, قرطبہ چوک
+trips,trip_headsign,FRT101WE,ur,وحدت روڈ اسٹیشن
+trips,trip_headsign,FRT110WD,ur, بابوُ صابو
+trips,trip_headsign,FRT111WD,ur,مین مارکیٹ گلبرگ
+trips,trip_headsign,FRT110WE,ur, بابوُ صابو
+trips,trip_headsign,FRT111WE,ur,مین مارکیٹ گلبرگ
+trips,trip_headsign,FRT120WD,ur,ناصر باغ
+trips,trip_headsign,FRT121WD,ur,ار- اے بازار
+trips,trip_headsign,FRT120WE,ur,ناصر باغ
+trips,trip_headsign,FRT121WE,ur,ار- اے بازار
+trips,trip_headsign,FRT130WD,ur,کلمہ چوک
+trips,trip_headsign,FRT131WD,ur,ڈیپو چوک
+trips,trip_headsign,FRT130WE,ur,کلمہ چوک
+trips,trip_headsign,FRT131WE,ur,ڈیپو چوک
+trips,trip_headsign,FRT140WD,ur,ار- اے بازار
+trips,trip_headsign,FRT141WD,ur,پرانا کاہنہ
+trips,trip_headsign,FRT140WE,ur,ار- اے بازار
+trips,trip_headsign,FRT141WE,ur,پرانا کاہنہ
+trips,trip_headsign,FRT150WD,ur,ار- اے بازار
+trips,trip_headsign,FRT151WD,ur,بھاٹی چوک
+trips,trip_headsign,FRT150WE,ur,ار- اے بازار
+trips,trip_headsign,FRT151WE,ur,بھاٹی چوک
+trips,trip_headsign,FRT160WD,ur,ڈائیوو ٹرمینل
+trips,trip_headsign,FRT161WD,ur,ںہر
+trips,trip_headsign,FRT160WE,ur,ڈائیوو ٹرمینل
+trips,trip_headsign,FRT161WE,ur,ںہر
+trips,trip_headsign,FRT170WD,ur,پی-کے-ایل-آئی 2
+trips,trip_headsign,FRT171WD,ur,گجومتہ
+trips,trip_headsign,FRT170WE,ur,پی-کے-ایل-آئی 2
+trips,trip_headsign,FRT171WE,ur,گجومتہ
+trips,trip_headsign,FRT180WD,ur,منڈیالی ٹول پلازہ
+trips,trip_headsign,FRT181WD,ur,بھاٹی چوک
+trips,trip_headsign,FRT180WE,ur,منڈیالی ٹول پلازہ
+trips,trip_headsign,FRT181WE,ur,بھاٹی چوک
+trips,trip_headsign,FRT190WD,ur,ریلوے اسٹیشن
+trips,trip_headsign,FRT191WD,ur,ار- اے بازار
+trips,trip_headsign,FRT190WE,ur,ریلوے اسٹیشن
+trips,trip_headsign,FRT191WE,ur,ار- اے بازار
+trips,trip_headsign,FRT200WD,ur,علی ٹاؤن اسٹیشن
+trips,trip_headsign,FRT201WD,ur,اڈا پلاٹ گول چکر
+trips,trip_headsign,FRT200WE,ur,علی ٹاؤن اسٹیشن
+trips,trip_headsign,FRT201WE,ur,اڈا پلاٹ گول چکر

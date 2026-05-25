@@ -1,0 +1,20 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_color
+MTRT,MTRT1,OrangeLine,"""The """"OrangeLine"""" route travels from AliTown to DeraGujjran.""",1,E2910B
+MBRT,MBRT1,MetroBus,"The ""MetroBus"" route travels from Shahdara to Gajjumata.""",0,1BC91B
+FRT03,FRT03,FeederRoute3,"The ""FeederRoute"" route travels from Rana Town to Railway Station.""",3,EF0754
+FRT04,FRT04,FeederRoute4,"The ""FeederRoute"" route travels from R.A Bazar to Chungi Amer Sidhu.""",3,EF0754
+FRT05,FRT05,FeederRoute5,"The ""FeederRoute"" route travels from Bhatti Chowk to Shadbagh Underpass.""",3,EF0754
+FRT07,FRT07,FeederRoute7,"The ""FeederRoute"" route travels from Depot Chowk to Chungi Amer Sidhu.""",3,EF0754
+FRT08,FRT08,FeederRoute8,"The ""FeederRoute"" route travels from Canal to Daewoo Terminal.""",3,EF0754
+FRT09,FRT09,FeederRoute9,"The ""FeederRoute"" route travels from Railway Station to Chuburji.""",3,EF0754
+FRT10,FRT10,FeederRoute10,"The ""FeederRoute"" route travels from Multan Chungi to Qartaba Chowk.""",3,EF0754
+FRT11,FRT11,FeederRoute11,"The ""FeederRoute"" route travels from Main Market to Babu Sabu.""",3,EF0754
+FRT12,FRT12,FeederRoute12,"The ""FeederRoute"" route travels from R.A Bazar to Civil Secretriat.""",3,EF0754
+FRT13,FRT13,FeederRoute13,"The ""FeederRoute"" route travels from Depot Chowk to Kalma Chowk.""",3,EF0754
+FRT14,FRT14,FeederRoute14,"The ""FeederRoute"" route travels from Purana Kahna to R.A Bazar.""",3,EF0754
+FRT15,FRT15,FeederRoute15,"The ""FeederRoute"" route travels from Bhatti Chowk to R.A Bazar.""",3,EF0754
+FRT16,FRT16,FeederRoute16,"The ""FeederRoute"" route travels from Canal to Daewoo Terminal.""",3,EF0754
+FRT17,FRT17,FeederRoute17,"The ""FeederRoute"" route travels from Gajjumata to PKLI.""",3,EF0754
+FRT18,FRT18,FeederRoute18,"The ""FeederRoute"" route travels from Bhatti Chowk to Mandiali Toll Plaza.""",3,EF0754
+FRT19,FRT19,FeederRoute19,"The ""FeederRoute"" route travels from R.A Bazar to Railway Station.""",3,EF0754
+FRT20,FRT20,FeederRoute20,"The ""FeederRoute"" route travels from Adda Plot Gol Chaker to Ali Town Station.""",3,EF0754

@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+MTF01,40,PKR,0,0,0
+MBF01,30,PKR,0,0,0
+FRF01,20,PKR,0,0,0
